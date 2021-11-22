@@ -93,21 +93,21 @@ Analyzing the studies listed in Q.6 from two perspectives of ethical issues ment
 
 ## Bibliography
 
-[1]	B. Janssens, M. Bogaert, and D. Van den Poel, ‘Evaluating the influence of Airbnb listings’ descriptions on demand’, Int. J. Hosp. Manag., vol. 99, p. 103071, Oct. 2021.https://doi.10.1016/j.ijhm.2021.103071.
+[1]	B. Janssens, M. Bogaert, and D. Van den Poel, ‘Evaluating the influence of Airbnb listings’ descriptions on demand’, Int. J. Hosp. Manag., vol. 99, p. 103071, Oct. 2021.https://doi.org/10.1016/j.ijhm.2021.103071.
 
-[2]	J. Jiao and S. Bai, ‘An empirical analysis of Airbnb listings in forty American cities’, Cities, vol. 99, p. 102618, Apr. 2020. https://doi.10.1016/j.cities.2020.102618.
+[2]	J. Jiao and S. Bai, ‘An empirical analysis of Airbnb listings in forty American cities’, Cities, vol. 99, p. 102618, Apr. 2020.https://doi.org/10.1016/j.cities.2020.102618.
 
-[3]	P. Sengupta, B. Biswas, A. Kumar, R. Shankar, and S. Gupta, ‘Examining the predictors of successful Airbnb bookings with Hurdle models: Evidence from Europe, Australia, USA and Asia-Pacific cities’, J. Bus. Res., vol. 137, pp. 538–554, Dec. 2021.https://doi.10.1016/j.jbusres.2021.08.035.
+[3]	P. Sengupta, B. Biswas, A. Kumar, R. Shankar, and S. Gupta, ‘Examining the predictors of successful Airbnb bookings with Hurdle models: Evidence from Europe, Australia, USA and Asia-Pacific cities’, J. Bus. Res., vol. 137, pp. 538–554, Dec. 2021.https://doi.org/10.1016/j.jbusres.2021.08.035.
 
-[4]	M. Xu and Y. Xu, ‘What happens when Airbnb comes to the neighborhood: The impact of home-sharing on neighborhood investment’, Reg. Sci. Urban Econ., vol. 88, p. 103670, May 2021. https://doi.10.1016/j.regsciurbeco.2021.103670.
+[4]	M. Xu and Y. Xu, ‘What happens when Airbnb comes to the neighborhood: The impact of home-sharing on neighborhood investment’, Reg. Sci. Urban Econ., vol. 88, p. 103670, May 2021.https://doi.org/10.1016/j.regsciurbeco.2021.103670.
 
-[5]	G. Casamatta, S. Giannoni, D. Brunstein, and J. Jouve, ‘Host type and pricing on Airbnb: Seasonality and perceived market power’, Tour. Manag., vol. 88, p. 104433, Feb. 2022. https://doi.10.1016/j.tourman.2021.104433.
+[5]	G. Casamatta, S. Giannoni, D. Brunstein, and J. Jouve, ‘Host type and pricing on Airbnb: Seasonality and perceived market power’, Tour. Manag., vol. 88, p. 104433, Feb. 2022. https://doi.org/10.1016/j.tourman.2021.104433.
 
-[6]	A. Voltes-Dorta and A. Sánchez-Medina, ‘Drivers of Airbnb prices according to property/room type, season and location: A regression approach’, J. Hosp. Tour. Manag., vol. 45, pp. 266–275, Dec. 2020. https://doi.10.1016/j.jhtm.2020.08.015.
+[6]	A. Voltes-Dorta and A. Sánchez-Medina, ‘Drivers of Airbnb prices according to property/room type, season and location: A regression approach’, J. Hosp. Tour. Manag., vol. 45, pp. 266–275, Dec. 2020. https://doi.org/10.1016/j.jhtm.2020.08.015.
 
-[7]	J. Gutiérrez, J. C. García-Palomares, G. Romanillos, and M. H. Salas-Olmedo, ‘The eruption of Airbnb in tourist cities: Comparing spatial patterns of hotels and peer-to-peer accommodation in Barcelona’, Tour. Manag., vol. 62, pp. 278–291, Oct. 2017. https://doi.10.1016/j.tourman.2017.05.003.
+[7]	J. Gutiérrez, J. C. García-Palomares, G. Romanillos, and M. H. Salas-Olmedo, ‘The eruption of Airbnb in tourist cities: Comparing spatial patterns of hotels and peer-to-peer accommodation in Barcelona’, Tour. Manag., vol. 62, pp. 278–291, Oct. 2017. https://doi.org/10.1016/j.tourman.2017.05.003.
 
-[8]	K. Crawford and M. Finn, ‘The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters’, GeoJournal, vol. 80, no. 4, pp. 491–502, Aug. 2015. https://doi.10.1007/s10708-014-9597-z.
+[8]	K. Crawford and M. Finn, ‘The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters’, GeoJournal, vol. 80, no. 4, pp. 491–502, Aug. 2015. https://doi.org/10.1007/s10708-014-9597-z.
 
 [9]	D. J. Solove, ‘Privacy Self-Management and the Consent Dilemma’, Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 2171018, Nov. 2012. Accessed: Nov. 21, 2021. [Online]. Available: https://papers.ssrn.com/abstract=2171018.
 
