@@ -29,6 +29,7 @@ Because they may want to do the research which is related to Airbnb by using thi
 ### 3. How was it collected?
 
 The data was scraped from the Airbnb website on 24 August 2020. This means that all data is listing information as it displayed on the Airbnb platform at that moment in time. The web data scraping process is divided into five steps:
+
    1.Identify the target website.
     
    2.Collect URLs of the pages where you want to extract data from.
@@ -93,13 +94,21 @@ Analyzing the studies listed in Q.6 from two perspectives of ethical issues ment
 ## Bibliography
 
 [1]	B. Janssens, M. Bogaert, and D. Van den Poel, ‘Evaluating the influence of Airbnb listings’ descriptions on demand’, Int. J. Hosp. Manag., vol. 99, p. 103071, Oct. 2021.
+
 [2]	J. Jiao and S. Bai, ‘An empirical analysis of Airbnb listings in forty American cities’, Cities, vol. 99, p. 102618, Apr. 2020.
+
 [3]	P. Sengupta, B. Biswas, A. Kumar, R. Shankar, and S. Gupta, ‘Examining the predictors of successful Airbnb bookings with Hurdle models: Evidence from Europe, Australia, USA and Asia-Pacific cities’, J. Bus. Res., vol. 137, pp. 538–554, Dec. 2021.
+
 [4]	M. Xu and Y. Xu, ‘What happens when Airbnb comes to the neighborhood: The impact of home-sharing on neighborhood investment’, Reg. Sci. Urban Econ., vol. 88, p. 103670, May 2021.
+
 [5]	G. Casamatta, S. Giannoni, D. Brunstein, and J. Jouve, ‘Host type and pricing on Airbnb: Seasonality and perceived market power’, Tour. Manag., vol. 88, p. 104433, Feb. 2022.
+
 [6]	A. Voltes-Dorta and A. Sánchez-Medina, ‘Drivers of Airbnb prices according to property/room type, season and location: A regression approach’, J. Hosp. Tour. Manag., vol. 45, pp. 266–275, Dec. 2020.
+
 [7]	J. Gutiérrez, J. C. García-Palomares, G. Romanillos, and M. H. Salas-Olmedo, ‘The eruption of Airbnb in tourist cities: Comparing spatial patterns of hotels and peer-to-peer accommodation in Barcelona’, Tour. Manag., vol. 62, pp. 278–291, Oct. 2017.
+
 [8]	K. Crawford and M. Finn, ‘The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters’, GeoJournal, vol. 80, no. 4, pp. 491–502, Aug. 2015.
+
 [9]	D. J. Solove, ‘Privacy Self-Management and the Consent Dilemma’, Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 2171018, Nov. 2012. Accessed: Nov. 21, 2021. [Online]. Available: https://papers.ssrn.com/abstract=2171018
 
 
