@@ -16,19 +16,19 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ### 1. Who collected the data?
 
-    This Airbnb listing data is initally scrapped and provided by the online provider Inside Airbnb. The researchers who want to do some research on Airbnb or the sharing economy can download this data from that website.
+This Airbnb listing data is initally scrapped and provided by the online provider Inside Airbnb. The researchers who want to do some research on Airbnb or the sharing economy can download this data from that website.
 
 ---
 
 ### 2. Why did they collect it?
 
-    Because they may want to do the research which is related to Airbnb by using this London Airbnb listing data. For instance, the Airbnb listing data could be used to evaluate the influence of Airbnb listings’ descriptions on demand. In this study, the authors used the LDA model to perform topic modelling on the listing descriptions[1].
+Because they may want to do the research which is related to Airbnb by using this London Airbnb listing data. For instance, the Airbnb listing data could be used to evaluate the influence of Airbnb listings’ descriptions on demand. In this study, the authors used the LDA model to perform topic modelling on the listing descriptions[1].
 
 ---
 
 ### 3. How was it collected?
 
-    The data was scraped from the Airbnb website on 24 August 2020. This means that all data is listing information as it displayed on the Airbnb platform at that moment in time. The web data scraping process is divided into five steps:
+The data was scraped from the Airbnb website on 24 August 2020. This means that all data is listing information as it displayed on the Airbnb platform at that moment in time. The web data scraping process is divided into five steps:
 
    1.Identify the target website.
     
@@ -45,19 +45,19 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ### 4. What useful information does it contain?
 
-    What useful information this data contains depends on what kinds of analysis that researchers want to do. If someone wants to do the same research as what I mentioned in Q.2, they can analyze the description data contained in this Airbnb data to gain similar conclusions about London. In this case, the description is useful information. In addition, let’s take another article titled “An empirical analysis of Airbnb listings in forty American cities” as an example. In this article, the authors used the multilevel mixed-effect linear regression model to analyze the factors affecting the average price per night per person of the Airbnb listing[2], and the variables in the model include the locations of houses, the number of beds, the number of online pictures, the number of online reviews, star rating, etc., which are regarded as useful information and all contained in our Airbnb data.
+What useful information this data contains depends on what kinds of analysis that researchers want to do. If someone wants to do the same research as what I mentioned in Q.2, they can analyze the description data contained in this Airbnb data to gain similar conclusions about London. In this case, the description is useful information. In addition, let’s take another article titled “An empirical analysis of Airbnb listings in forty American cities” as an example. In this article, the authors used the multilevel mixed-effect linear regression model to analyze the factors affecting the average price per night per person of the Airbnb listing[2], and the variables in the model include the locations of houses, the number of beds, the number of online pictures, the number of online reviews, star rating, etc., which are regarded as useful information and all contained in our Airbnb data.
 
 ---
 
 ### 5. To what extent is the data 'complete'?
 
-    No data is 100% complete. The limitation is an inherent property of data because the storage space for data, like paper, disk, CD, even cloud space, is limited, but this world, which produces data constantly, is infinite. In other words, it is impossible to find a piece of data without any limitation. 
+No data is 100% complete. The limitation is an inherent property of data because the storage space for data, like paper, disk, CD, even cloud space, is limited, but this world, which produces data constantly, is infinite. In other words, it is impossible to find a piece of data without any limitation. 
     
-    For the data studied here, firstly, it has time limitations. This data was scraped from the Airbnb website on 24 August 2020, which means that all data is listing information as it displayed on the Airbnb platform at that moment in time. However, this data can only show one day’s information of Airbnb listings on the website. If someone decided to become a host to share his or her home with other people and posted his or her house’s information on the Airbnb website on 25 August 2020, then this data which was scrapped on 24 August 2020 would lose its accuracy. In other words, this data became incomplete. However, the analyses which are supported by this Airbnb listing data are not very sensitive to the daily changes in data, so in the short period centred on 24 August 2020, this data can be described as ‘complete data’, which can support the analyses about Airbnb.
+For the data studied here, firstly, it has time limitations. This data was scraped from the Airbnb website on 24 August 2020, which means that all data is listing information as it displayed on the Airbnb platform at that moment in time. However, this data can only show one day’s information of Airbnb listings on the website. If someone decided to become a host to share his or her home with other people and posted his or her house’s information on the Airbnb website on 25 August 2020, then this data which was scrapped on 24 August 2020 would lose its accuracy. In other words, this data became incomplete. However, the analyses which are supported by this Airbnb listing data are not very sensitive to the daily changes in data, so in the short period centred on 24 August 2020, this data can be described as ‘complete data’, which can support the analyses about Airbnb.
 
-    Secondly, it has spatial limitations. This data only contains London’s Airbnb listings, then it only supports the analyses on the scale of London and any results and conclusions from those analyses can only apply for London but other cities. In all, this data can be described as ‘complete data’ when the study area is London.
+Secondly, it has spatial limitations. This data only contains London’s Airbnb listings, then it only supports the analyses on the scale of London and any results and conclusions from those analyses can only apply for London but other cities. In all, this data can be described as ‘complete data’ when the study area is London.
     
-    Thirdly, in this Airbnb listing data, some values of listings' properties are blank and these listings may be excluded when this data is used to do some research which may make this data sample uncomplete. 
+Thirdly, in this Airbnb listing data, some values of listings' properties are blank and these listings may be excluded when this data is used to do some research which may make this data sample uncomplete. 
 
 
 ---
@@ -81,13 +81,13 @@ After reviewing the literature, I come up with 5 kinds of analysis that can be s
 
 ### 7. Which of the uses presented in Q.6 are _ethical_?
 
-    The biggest ethical crisis of this era of information is the issue of personal privacy.
+The biggest ethical crisis of this era of information is the issue of personal privacy.
 
-    Firstly, there is the ethical issue of data collection. Whereas in the past, data collection was done manually, and the person being collected was usually informed, but today, data is collected automatically by intelligent devices, often without the knowledge of the person being collected. 
+Firstly, there is the ethical issue of data collection. Whereas in the past, data collection was done manually, and the person being collected was usually informed, but today, data is collected automatically by intelligent devices, often without the knowledge of the person being collected. 
 
-    Secondly, there is the issue of privacy in the use of data. Now the volume of data grows constantly and the ways in which data can be combined to reveal more data are constantly evolving too[8]. This combination of multiple data may reveal some private information without the person’s knowledge, which is described as the “aggregation effect”[9].
+Secondly, there is the issue of privacy in the use of data. Now the volume of data grows constantly and the ways in which data can be combined to reveal more data are constantly evolving too[8]. This combination of multiple data may reveal some private information without the person’s knowledge, which is described as the “aggregation effect”[9].
 
-    Analyzing the studies listed in Q.6 from two perspectives of ethical issues mentioned above, I found that the data and analyses in these studies only involved just a little private information about the hosts, for example, the hosts’ first names, the hosts’ self-introductions and the hosts’ locations, and basically did not involve private information about the Airbnb users. Although some studies that explore the behavioural habits and preferences of Airbnb users may inadvertently involve some personal privacy, I think, from the perspective of personal privacy, the studies mentioned in Q.6 are all ethical.
+Analyzing the studies listed in Q.6 from two perspectives of ethical issues mentioned above, I found that the data and analyses in these studies only involved just a little private information about the hosts, for example, the hosts’ first names, the hosts’ self-introductions and the hosts’ locations, and basically did not involve private information about the Airbnb users. Although some studies that explore the behavioural habits and preferences of Airbnb users may inadvertently involve some personal privacy, I think, from the perspective of personal privacy, the studies mentioned in Q.6 are all ethical.
 
 
 
