@@ -32,11 +32,15 @@ Because they may want to study Airbnb by using Airbnb data. This data could be u
 
 The data was scraped from the Airbnb website on 24 August 2020. This means that all data is listing information as it displayed on the Airbnb platform at that moment in time. The web data scraping process is divided into five steps:
 
-1.Identify the target website.
-2.Collect URLs of the pages where you want to extract data from.
-3.Make a request to these URLs to get the HTML of the page.
-4.Use locators to find the data in the HTML.
-5.Save the data in a JSON or CSV file or some other structured format.
+**1.** Identify the target website.
+
+**2.** Collect URLs of the pages where you want to extract data from.
+
+**3.** Make a request to these URLs to get the HTML of the page.
+
+**4.** Use locators to find the data in the HTML.
+
+**5.** Save the data in a JSON or CSV file or some other structured format.
 
 ---
 
@@ -58,15 +62,15 @@ Secondly, it has spatial limitations. This data only contains London’s Airbnb 
 
 After reviewing the literature, I come up with 5 kinds of analysis that can be supported by this Airbnb data.
 
-1.Some research on Airbnb focused on the determinants of guests’ decision making and their impact on demand. For example, Janssens, Bogaert and Poel evaluated the influence of Airbnb listings’ descriptions on demand[1]. Pooja Sengupta et al. examined the predictors of successful Airbnb bookings with Hurdle models[3]. 
+**1.** Some research on Airbnb focused on the determinants of guests’ decision making and their impact on demand. For example, Janssens, Bogaert and Poel evaluated the influence of Airbnb listings’ descriptions on demand[1]. Pooja Sengupta et al. examined the predictors of successful Airbnb bookings with Hurdle models[3]. 
 
-2.Some research focused on the impact of sharing economy. For instance, Minhong Xu and Yilan Xu explored the impact of home-sharing (e.g. Airbnb) on neighbourhood investment[4].
+**2.** Some research focused on the impact of sharing economy. For instance, Minhong Xu and Yilan Xu explored the impact of home-sharing (e.g. Airbnb) on neighbourhood investment[4].
 
-3.Some research focused on the hosts of Airbnb listings and want to explore whether the professional hosts who own better pricing strategies yield higher returns. Georges Casamatta et al. tested whether professional hosts indeed have a better perception of the degree of market power than non-professionals[5].
+**3.** Some research focused on the hosts of Airbnb listings and want to explore whether the professional hosts who own better pricing strategies yield higher returns. Georges Casamatta et al. tested whether professional hosts indeed have a better perception of the degree of market power than non-professionals[5].
 
-4.Some research focused on the price of Airbnb listings. Augusto Volotes- Dorta and Agustín Sánchez-Medina presented a study about the drivers of Airbnb prices in Bristol using ordinary least squares (OLS) and geographically weighted regression (GWR) methods[6].
+**4.** Some research focused on the price of Airbnb listings. Augusto Volotes- Dorta and Agustín Sánchez-Medina presented a study about the drivers of Airbnb prices in Bristol using ordinary least squares (OLS) and geographically weighted regression (GWR) methods[6].
 
-5.Some research used GIS to map out the distribution of Airbnb listings and hotels. Gutierrez et al. concluded that not only Airbnb have different spatial patterns from traditional hotels, but the explanatory factors to the location of Airbnb listings were also different from those for traditional hotels[7].
+**5.** Some research used GIS to map out the distribution of Airbnb listings and hotels. Gutierrez et al. concluded that not only Airbnb have different spatial patterns from traditional hotels, but the explanatory factors to the location of Airbnb listings were also different from those for traditional hotels[7].
 
 
 
