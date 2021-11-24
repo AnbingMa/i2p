@@ -18,13 +18,13 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ### 1. Who collected the data?
 
-This Airbnb listing data is initially scrapped and provided by the online provider Inside Airbnb. The researchers who are interested in Airbnb could download this data from that website. 
+This Airbnb listing data is initially collected and organized by the online provider Inside Airbnb and the researchers who are interested in Airbnb could download this data from that website. 
 
 ---
 
 ### 2. Why did they collect it?
 
-Because they may want to study Airbnb by using Airbnb data. This data could be used to evaluate the influence of Airbnb listings’ descriptions on demand. For example, Janssens, Bogaert and Poel used the LDA model to perform topic modelling on the listing descriptions[1].
+Because they can study some fundamental questions about Airbnb in any neighbourhood, or across the city as a whole. What's more, this data could be used to evaluate the influence of Airbnb listings’ descriptions on demand. For example, Janssens, Bogaert and Poel used the LDA model to perform topic modelling on the listing descriptions[1].
 
 ---
 
@@ -52,9 +52,10 @@ What useful information this data contains depends on what kinds of analysis tha
 
 ### 5. To what extent is the data 'complete'?
 
-For the data studied here, firstly, it has time limitations. This data was scraped from the Airbnb website on 24 August 2020, which means that all data is listing information as it displayed on the Airbnb platform at that moment in time. However, this data can only show one day’s information of Airbnb listings on the website. If someone decided to become a host to share his or her home with other people and posted his or her house’s information on the Airbnb website on 25 August 2020, then this data which was scrapped on 24 August 2020 would lose its accuracy. In other words, this data became incomplete. However, the analyses which are supported by this Airbnb data are not very sensitive to the daily changes in data, so in the short period centred on 24 August 2020, this data can be described as ‘complete data’, which can support the analyses about Airbnb.
+There are over 50 fields in this data that almost contain every aspect of information of Airbnb listings. However, this data is not as complete as it looks like, because different kinds of discrimination have always existed in Airbnb data and are often ignored by people.
+Firstly, the age discrimination. Not everyone is good at using smart devices and not everyone uses Airbnb. Nowadays, almost all young people own at least one smart device and there is no doubt that young people are the main consumers of Airbnb, so a huge amount of Airbnb resources are going to them. For example, the hosts prefer to decorate their apartments with fashion styles or dress up themselves more youthfully to attract young consumers, and the hosts may also pay more attention to reviews from young consumers. In all, this kind of discrimination makes the Airbnb data more relevant to young people and makes this data incomplete. 
 
-Secondly, it has spatial limitations. This data only contains London’s Airbnb listings, then it only supports the analyses on the scale of London and any results and conclusions from those analyses can only apply for London but other cities. In all, this data can be described as ‘complete data’ when the study area is London.
+Secondly, racial discrimination. The Airbnb users believe that they have the right to choose "who comes into their home" and "whose home they enter". Although Airbnb launched an anti-discrimination directive to users, it is impossible to intervene in every user’s choice. As such discrimination is inevitable, the data will naturally be affected. As a result, this data will be more relevant to users who don’t suffer from racial discrimination and tend to ignore discriminated users. In other words, this data is incomplete.
 
 ---
 
@@ -71,8 +72,6 @@ After reviewing the literature, I come up with 5 kinds of analysis that can be s
 **4.** Some research focused on the price of Airbnb listings. Augusto Volotes- Dorta and Agustín Sánchez-Medina presented a study about the drivers of Airbnb prices in Bristol using ordinary least squares (OLS) and geographically weighted regression (GWR) methods[6].
 
 **5.** Some research used GIS to map out the distribution of Airbnb listings and hotels. Gutierrez et al. concluded that not only Airbnb have different spatial patterns from traditional hotels, but the explanatory factors to the location of Airbnb listings were also different from those for traditional hotels[7].
-
-
 
 ---
 
