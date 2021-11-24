@@ -53,6 +53,7 @@ What useful information this data contains depends on what kinds of analysis tha
 ### 5. To what extent is the data 'complete'?
 
 There are over 50 fields in this data that almost contain every aspect of information of Airbnb listings. However, this data is not as complete as it looks like, because different kinds of discrimination have always existed in Airbnb data and are often ignored by people.
+
 Firstly, the age discrimination. Not everyone is good at using smart devices and not everyone uses Airbnb. Nowadays, almost all young people own at least one smart device and there is no doubt that young people are the main consumers of Airbnb, so a huge amount of Airbnb resources are going to them. For example, the hosts prefer to decorate their apartments with fashion styles or dress up themselves more youthfully to attract young consumers, and the hosts may also pay more attention to reviews from young consumers. In all, this kind of discrimination makes the Airbnb data more relevant to young people and makes this data incomplete. 
 
 Secondly, racial discrimination. The Airbnb users believe that they have the right to choose "who comes into their home" and "whose home they enter". Although Airbnb launched an anti-discrimination directive to users, it is impossible to intervene in every user’s choice. As such discrimination is inevitable, the data will naturally be affected. As a result, this data will be more relevant to users who don’t suffer from racial discrimination and tend to ignore discriminated users. In other words, this data is incomplete.
