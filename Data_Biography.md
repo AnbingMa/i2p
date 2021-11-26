@@ -24,13 +24,13 @@ This Airbnb listing data is initially collected and organized by the online prov
 
 ### 2. Why did they collect it?
 
-Because they can study some fundamental questions about Airbnb in any neighbourhood, or across the city as a whole. What's more, this data could be used to evaluate the influence of Airbnb listings’ descriptions on demand. For example, Janssens, Bogaert and Poel used the LDA model to perform topic modelling on the listing descriptions[1].
+Because they may want to study some fundamental questions about Airbnb in any neighbourhood, or across the city as a whole. For example, Janssens, Bogaert and Poel used the LDA model to perform topic modelling on the listing descriptions[1].
 
 ---
 
 ### 3. How was it collected?
 
-The data was scraped from the Airbnb website on 24 August 2020. This means that all data is listing information as it displayed on the Airbnb platform at that moment in time. The web data scraping process is divided into five steps:
+The data was scraped from the Airbnb website on 24 August 2020. The web data scraping process is divided into five steps:
 
 **1.** Identify the target website.
 
@@ -46,7 +46,7 @@ The data was scraped from the Airbnb website on 24 August 2020. This means that 
 
 ### 4. What useful information does it contain?
 
-What useful information this data contains depends on what kinds of analysis that researchers want to do. If someone wants to analyze the description data contained in this Airbnb data to gain similar conclusions about London, in this case, the descriptions of listings are useful information. In addition, let’s take another article titled “An empirical analysis of Airbnb listings in forty American cities” as an example. In this article, the authors used the multilevel mixed-effect linear regression model to analyze the factors affecting the average price of the Airbnb listing[2], and the variables in the model include the locations of houses, the number of beds, online pictures, online reviews, star rating, etc. These variables (useful information) are all contained in this data.
+What useful information this data contains depends on what kinds of analysis that researchers want to do. If someone wants to analyze the description data contained in this Airbnb data to gain similar conclusions about London, in this case, the descriptions of listings are useful information. In addition, let’s take another article titled “An empirical analysis of Airbnb listings in forty American cities” as an example. In this article, the authors used the linear regression model to analyze the factors affecting the average price of the Airbnb listing[2], and the variables in the model include the locations of houses, the number of beds, online pictures, online reviews, star rating, etc. These variables (useful information) are all contained in this data.
 
 ---
 
